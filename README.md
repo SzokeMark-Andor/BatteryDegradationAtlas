@@ -55,7 +55,7 @@ Ensure your Python environment (3.9+) has the necessary dependencies installed:
 pip install pandas pyarrow numpy scipy
 ```
 
-###Running the Discovery Pipeline
+### Running the Discovery Pipeline
 To reproduce the main scan of all 18 datasets:
 ```bash
 python Experimental_Code/run_v4_with_dataset_filter.py
