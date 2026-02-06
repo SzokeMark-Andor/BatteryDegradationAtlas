@@ -2,7 +2,7 @@
 
 **Date of Discovery Run:** 2026-01-31  
 **License:** Apache 2.0  
-**Associated Article:** *Benchmarking early degradation signatures in open lithium-ion battery datasets: A discovery-audit framework and atlas*
+**Associated Article:** *The Semantic Gap in Battery Prognostics: Quantifying the ’Thermodynamic Information Loss’ in Aggregated Datasets*
 
 ---
 
